@@ -1,3 +1,5 @@
+Partner project with Adityaa Ravi (github.com/AdityaaRavi)
+
 This program was to create Spreader class that will determine how many days it would take for Covid to infect an entire
 population when beginning with a few starting individuals. We utilized Djikstra's algorithm to calculate this number of days.
 
