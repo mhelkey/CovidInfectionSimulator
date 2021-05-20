@@ -1,0 +1,24 @@
+Scores from p4 for Helkey Matthew Ravi Adityaa 
+Note that format is: e-mail<comma>last name<comma>first name
+For example: ssdavis@ucdavis.edu,Davis,Sean
+
+Addresses used: mshelkey@ucdavis.edu adiravi@ucdavis.edu  
+This is a run of p4 with a one minute limit on the time allowed per run.
+Scores from p4 for HelkeyMatthew
+RaviAdityaa
+Makefile optimization check: 
+OK
+STL check:
+OK
+Testing covid-2000000-10-2.csv: 
+Your days: 505
+Sean's days: 505
+Testing covid-2000000-10-3.csv: 
+Your days: 555
+Sean's days: 555
+Testing covid-2000000-10-4.csv: 
+Your days: 428
+Sean's days: 428
+
+Total CPU Time: Yours 3.07708  Sean's: 3.56 so your score is 18
+Total score: 18 + 35 = 53
